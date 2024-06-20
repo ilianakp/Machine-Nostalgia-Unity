@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{34112770-5BCA-6EF3-F80E-3883293CFA52}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ExchangingByIndex.cs">
+    <Files>
+      <File FileName="Assets/scripts/ExchangingByIndex.cs" Line="377" Column="59" />
+      <File FileName="../ExchangingByIndex (2).cs" Line="296" Column="56" />
+      <File FileName="Assets/scripts/PlayerView.cs" Line="38" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="904f4aae-5c80-4621-8b3e-842d5c5a7339" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

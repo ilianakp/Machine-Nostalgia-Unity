@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{07EE7670-63AC-4079-9BC0-0069583210D5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ExchangingByIndex.cs">
+    <Files>
+      <File FileName="Assets/scripts/ExchangingByIndex.cs" Line="41" Column="5" />
+      <File FileName="Assets/map/map/activateScreenshot.cs" Line="74" Column="23" />
+      <File FileName="Assets/map/map/drawPath.cs" Line="30" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="06d1c3fc-c677-4701-94d4-960f789f5812" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
